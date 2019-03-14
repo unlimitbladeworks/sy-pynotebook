@@ -1,6 +1,6 @@
-@[TOC]
+[TOC]
 
-##  python小课堂00
+## python小课堂00
 ### 01 THE FIRST 编程、编程语言?
 ### 02 THE SECOND Why Python?
 ### 03 THE THIRD Python一行代码
