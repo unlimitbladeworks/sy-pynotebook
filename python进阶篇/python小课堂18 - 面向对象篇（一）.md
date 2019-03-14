@@ -210,9 +210,4 @@ print(f'类变量年龄:{GirlFriend.age}')
 
 
 至此完！
-
-<hr>
-
-有想学python的同学，欢迎关注公号：
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20181220123046502.png)
+ 

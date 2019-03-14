@@ -141,9 +141,3 @@ https://github.com/rootphantomer/Blasting_dictionary
 本篇文章的完整代码地址如下：
 https://github.com/unlimitbladeworks/python-tools/blob/master/hack/zip/zip_hack.py
 至此完！
-
-<hr/>
-
-有想学python的同学，欢迎关注公号：
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20181216182145450.png)

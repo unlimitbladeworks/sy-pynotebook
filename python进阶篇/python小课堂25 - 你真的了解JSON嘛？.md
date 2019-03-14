@@ -195,8 +195,4 @@ print(type(girlfriend_json))
 
 好了，以上就是本章介绍的番外篇JSON啦.
 
-至此完！
-
-
-有想交流沟通python相关知识的同学，欢迎关注公号：
-migezatan.(咪哥杂谈)
+至此完！ 

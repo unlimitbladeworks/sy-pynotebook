@@ -227,8 +227,4 @@ https://github.com/unlimitbladeworks/python-tools/tree/master/hack/meta
 
 
 
-以上就是本章所有内容了！至此完！
-
-
-
-有想学python的同学，欢迎关注公号哟：![在这里插入图片描述](https://img-blog.csdnimg.cn/20181227123435276.png)
+以上就是本章所有内容了！至此完！ 

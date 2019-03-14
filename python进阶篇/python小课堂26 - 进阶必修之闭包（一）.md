@@ -277,8 +277,4 @@ print(c.__closure__[0].cell_contents)
 
 
 
-至此完！
-
-<hr/>
-有想交流沟通python相关知识的同学，欢迎关注公号：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019012912401890.png)
+至此完！ 
