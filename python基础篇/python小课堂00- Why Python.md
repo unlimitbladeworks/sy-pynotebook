@@ -1,4 +1,4 @@
-@[TOC] 目录
+@[TOC]
 
 ##  python小课堂00
 ### 01 THE FIRST 编程、编程语言?
