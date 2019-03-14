@@ -385,7 +385,4 @@ base_path = os.path.dirname(os.path.dirname(
                             os.path.abspath(__file__)))
 sys.path.append(base_path)
 ```
-有想学python的同学，欢迎关注公号：
-
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20181210125552148.png)
+ 

@@ -51,7 +51,4 @@ emmm....我们来加一下闪现和点燃技能吧：
 
 
 原文地址：https://mp.weixin.qq.com/s?__biz=MzAxMTM3MDk2Ng==&mid=2451658779&idx=1&sn=0bfc5344b0c15c2e483948db549d5b94&chksm=8c97d0a2bbe059b431971dd8a477aca4b19b2ed8d8b431dad0084a153b43f3dc5cdda5f33648&token=1167262384&lang=zh_CN#rd
-
-有想学python的朋友，欢迎关注公号哟：
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20181109130141538.jpg)
+ 

@@ -152,6 +152,4 @@ continue：中文有继续的意思，所以在使用循环时符合当前条件
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181129123241531.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3M3NDA1NTY0NzI=,size_16,color_FFFFFF,t_70)
 
-有想学python的同学，欢迎关注公号：
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20181129123327529.png)
+ 

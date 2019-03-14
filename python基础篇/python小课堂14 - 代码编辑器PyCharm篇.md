@@ -172,8 +172,4 @@ python环境之前的小课堂有讲过如何安装，现在是需要将python�
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181201141610770.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3M3NDA1NTY0NzI=,size_16,color_FFFFFF,t_70)
 
-终于写完了........这怕是史上最详细的Pycharm安装教程了吧！！！
-
-有想学python的同学，欢迎关注公号：
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20181201141649859.png)
+终于写完了........这怕是史上最详细的Pycharm安装教程了吧！！！ 

@@ -51,7 +51,5 @@ False
 布尔类型在编程中是非常常用的，在写一些逻辑判断的过程中，需要用布尔类型来判断程序是否应该进行怎样的逻辑运行，就像日常生活中，如果你坐上了公交车(此时为真)，那么你就得刷卡交钱！(符合布尔型为真后做的事情)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181106210037963.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3M3NDA1NTY0NzI=,size_16,color_FFFFFF,t_70)
-
-有想学习python的同学，欢迎关注公众号哟：
-![咪哥杂谈](https://img-blog.csdnimg.cn/20181104164256754.png)
+ 
 
