@@ -19,13 +19,9 @@
 |-python基础篇
 
 	|- python小课堂00- Why Python.md
-
 	|- python小课堂01 - 环境安装.md
-
 	|- python小课堂02 - 基本数据类型数字篇.md
-
 	|- python小课堂03 - 基本数据类型进制篇.md
-
 	|- python小课堂04 - 基本数据类型布尔篇.md
 
 	|- python小课堂05 - 基本数据类型字符串篇\(重要\).md
