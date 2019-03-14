@@ -1,4 +1,4 @@
-# sy-notebook
+# sy-pynotebook
 
 ## Python3的个人学习笔记
 
@@ -16,7 +16,13 @@
 
 ### 笔记目录
 
-### 
+├─python基础篇
+
+
+
+├─python小课堂
+
+└─python进阶篇
 
 
 
