@@ -16,8 +16,6 @@
 
 ### 笔记目录
 
-
-
 ```
 |-python基础篇
     |- python小课堂00- Why Python.md
@@ -35,27 +33,25 @@
     |- python小课堂06 - 基本数据类型字符串运算篇.md
 
     |- python小课堂07 - 基本数据类型列表篇.md
-    
+
     |- python小课堂08 - 基本数据类型元组篇.md
 
     |- python小课堂09 - 基本数据类型序列总结篇.md
-    
+
     |- python小课堂10 - 基本数据类型终篇集合和字典.md
-    
+
     |- python小课堂11 - 变量篇.md
-    
+
     |- python小课堂12 - 运算符篇.md
-    
+
     |- python小课堂13 - 流程控制语法篇.md
-    
+
     |- python小课堂14 - 代码编辑器PyCharm篇.md
-    
+
     |- python小课堂15 - 史上最详细的包和模块import讲解篇.md
-    
+
     |- python小课堂16 - 函数篇.md
 ```
 
-├─python小课堂
 
-└─python进阶篇
 
