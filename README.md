@@ -61,7 +61,8 @@
 
 ```
 | - python技巧篇
-    | - python小课堂34 - python小课堂34 - 推导式与生成器.md
+    | - python小课堂34 - python小课堂34 - 推导式与生成器
+	| - python小课堂35 - 那些年，走过的 None 之坑
 
 ```
 ### 电子书
