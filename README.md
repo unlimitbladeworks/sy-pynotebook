@@ -64,8 +64,9 @@
 
 
 #### pythonC技巧篇
- - [python小课堂34 - python小课堂34 - 推导式与生成器](./pythonC技巧篇/)
- - [python小课堂35 - 那些年，走过的 None 之坑](./pythonC技巧篇/)
+
+ - [python小课堂34 - python小课堂34 - 推导式与生成器](./pythonC技巧篇/python小课堂34%20-%20推导式与生成器.md)
+ - [python小课堂35 - 那些年，走过的 None 之坑](./pythonC技巧篇/python小课堂35%20-%20那些年，走过的%20None%20之坑.md)
 
 
 ### 电子书
