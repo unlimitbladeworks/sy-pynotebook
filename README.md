@@ -18,54 +18,54 @@
 
 ### 笔记目录
 
-```
-|-python基础篇
-    |- python小课堂00- Why Python
-    |- python小课堂01 - 环境安装
-    |- python小课堂02 - 基本数据类型数字篇
-    |- python小课堂03 - 基本数据类型进制篇
-    |- python小课堂04 - 基本数据类型布尔篇
-    |- python小课堂05 - 基本数据类型字符串篇\(重要\)
-    |- python小课堂06 - 基本数据类型字符串运算篇
-    |- python小课堂07 - 基本数据类型列表篇
-    |- python小课堂08 - 基本数据类型元组篇
-    |- python小课堂09 - 基本数据类型序列总结篇
-    |- python小课堂10 - 基本数据类型终篇集合和字典
-    |- python小课堂11 - 变量篇
-    |- python小课堂12 - 运算符篇
-    |- python小课堂13 - 流程控制语法篇
-    |- python小课堂14 - 代码编辑器PyCharm篇
-    |- python小课堂15 - 史上最详细的包和模块import讲解篇
-    |- python小课堂16 - 函数篇
-```
+
+##### python基础篇
+ - [python小课堂00- Why Python](./pythonA基础篇/python小课堂00%20-%20Why%20Python.md)
+ - [python小课堂01 - 环境安装](./pythonA基础篇/python小课堂01%20-%20环境安装.md)
+ - [python小课堂02 - 基本数据类型数字篇](./pythonA基础篇/python小课堂02%20-%20基本数据类型数字篇.md)
+ - [python小课堂03 - 基本数据类型进制篇](./pythonA基础篇/python小课堂03%20-%20基本数据类型进制篇.md)
+ - [python小课堂04 - 基本数据类型布尔篇](./pythonA基础篇/python小课堂04%20-%20基本数据类型布尔篇.md)
+ - [python小课堂05 - 基本数据类型字符串篇\(重要\)](./pythonA基础篇/python小课堂05%20-%20基本数据类型字符串篇(重要).md)
+ - [python小课堂06 - 基本数据类型字符串运算篇](./pythonA基础篇/python小课堂06%20-%20基本数据类型字符串运算篇.md)
+ - [python小课堂07 - 基本数据类型列表篇](./pythonA基础篇/python小课堂07%20-%20基本数据类型列表篇.md)
+ - [python小课堂08 - 基本数据类型元组篇](./pythonA基础篇/python小课堂08%20-%20基本数据类型元组篇.md)
+ - [python小课堂09 - 基本数据类型序列总结篇](./pythonA基础篇/python小课堂09%20-%20基本数据类型序列总结篇.md)
+ - [python小课堂10 - 基本数据类型终篇集合和字典](./pythonA基础篇/python小课堂10%20-%20基本数据类型终篇集合和字典.md)
+ - [python小课堂11 - 变量篇](./pythonA基础篇/python小课堂11%20-%20变量篇.md)
+ - [python小课堂12 - 运算符篇](./pythonA基础篇/python小课堂12%20-%20运算符篇.md)
+ - [python小课堂13 - 流程控制语法篇](./pythonA基础篇/python小课堂13%20-%20流程控制语法篇.md)
+ - [python小课堂14 - 代码编辑器PyCharm篇](./pythonA基础篇/python小课堂14%20-%20代码编辑器PyCharm篇.md)
+ - [python小课堂15 - 史上最详细的包和模块import讲解篇](./pythonA基础篇/python小课堂15%20-%20史上最详细的包和模块import讲解篇.md)
+ - [python小课堂16 - 函数篇](./pythonA基础篇/python小课堂16%20-%20函数篇.md)
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+##### python进阶篇                                                
+ - [python小课堂17 - 30行代码破解加密ZIP文件](./pythonB进阶篇/python小课堂17 - 30行代码破解加密ZIP文件.md)
+ - [python小课堂18 - 面向对象篇（一）](./pythonB进阶篇/python小课堂18 - 面向对象篇（一）.md)
+ - [python小课堂19 - 面向对象篇（二）](./pythonB进阶篇/python小课堂19 - 面向对象篇（二）.md)
+ - [python小课堂20 - 5分钟教你用图片定位具体地址！](./pythonB进阶篇/python小课堂20 - 5分钟教你用图片定位具体地址！.md)
+ - [python小课堂21 - 面向对象(三)](./pythonB进阶篇/python小课堂21 - 面向对象(三).md)
+ - [python小课堂22 - 面向对象(四)](./pythonB进阶篇/python小课堂22 - 面向对象(四).md)
+ - [python小课堂23 - 正则表达式(一)](./pythonB进阶篇/python小课堂23 - 正则表达式(一).md)
+ - [python小课堂24 - 正则表达式(二)](./pythonB进阶篇/python小课堂24 - 正则表达式(二).md)
+ - [python小课堂25 - 你真的了解JSON嘛？](./pythonB进阶篇/python小课堂25 - 你真的了解JSON嘛？.md)
+ - [python小课堂26 - 进阶必修之闭包（一）](./pythonB进阶篇/python小课堂26 - 进阶必修之闭包（一）.md)
+ - [python小课堂27 - 进阶必修之闭包（二）](./pythonB进阶篇/python小课堂27 - 进阶必修之闭包（二）.md)
+ - [python小课堂28 - 进阶必修之匿名函数与高阶函数](./pythonB进阶篇/python小课堂28 - 进阶必修之匿名函数与高阶函数.md)
+ - [python小课堂29 - 进阶必修之装饰器](./pythonB进阶篇/python小课堂29 - 进阶必修之装饰器.md)
+ - [python小课堂30 - 爬虫之前必会的浏览器开发者工具](./pythonB进阶篇/python小课堂30 - 爬虫之前必会的浏览器开发者工具.md)
+ - [python小课堂31 - 初识原生爬虫](./pythonB进阶篇/python小课堂31 - 初识原生爬虫.md)
+ - [python小课堂32 - 初识原生爬虫（二）](./pythonB进阶篇/python小课堂32 - 初识原生爬虫（二）.md)
+ - [python小课堂33 - 初识原生爬虫优化](./pythonB进阶篇/python小课堂33 - 初识原生爬虫优化.md)
 
 
-```
-| - python进阶篇
-    | - python小课堂17 - 30行代码破解加密ZIP文件
-    | - python小课堂18 - 面向对象篇（一）
-    | - python小课堂19 - 面向对象篇（二）
-    | - python小课堂20 - 5分钟教你用图片定位具体地址！
-    | - python小课堂21 - 面向对象(三)
-    | - python小课堂22 - 面向对象(四)
-    | - python小课堂23 - 正则表达式(一)
-    | - python小课堂24 - 正则表达式(二)
-    | - python小课堂25 - 你真的了解JSON嘛？
-    | - python小课堂26 - 进阶必修之闭包（一）
-    | - python小课堂27 - 进阶必修之闭包（二）
-    | - python小课堂28 - 进阶必修之匿名函数与高阶函数
-    | - python小课堂29 - 进阶必修之装饰器
-    | - python小课堂30 - 爬虫之前必会的浏览器开发者工具
-    | - python小课堂31 - 初识原生爬虫
-    | - python小课堂32 - 初识原生爬虫（二）
-    | - python小课堂33 - 初识原生爬虫优化
-```
 
-```
-| - python技巧篇
-    | - python小课堂34 - python小课堂34 - 推导式与生成器
-    | - python小课堂35 - 那些年，走过的 None 之坑
+##### pythonC技巧篇
+ - [python小课堂34 - python小课堂34 - 推导式与生成器](./pythonC技巧篇/)
+ - [python小课堂35 - 那些年，走过的 None 之坑](./pythonC技巧篇/)
 
-```
+
 ### 电子书
 本项目同步与 gitbook 相关网站，在线观看地址: 暂时有点问题，后续整理好了在写出来
