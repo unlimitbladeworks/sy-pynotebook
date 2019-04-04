@@ -3,7 +3,7 @@
 ## Python3的个人学习笔记
 
 [![Python](https://img.shields.io/badge/python-v3.6%2B-blue.svg)](https://www.python.org/)
-[![build](https://img.shields.io/badge/build-passing-green.svg)]()
+[![build](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/unlimitbladeworks/sy-pynotebook)
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 
