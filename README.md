@@ -2,6 +2,11 @@
 
 ## Python3的个人学习笔记
 
+[![Python](https://img.shields.io/badge/python-v3.6%2B-blue.svg)](https://www.python.org/)
+[![build](https://img.shields.io/badge/build-passing-green.svg)]()
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+
+
 ### 初心
 
 为什么会有这份 Python3 的学习笔记？
