@@ -74,6 +74,8 @@
  - [python小课堂35 - 那些年，走过的 None 之坑](./pythonC技巧篇/python小课堂35%20-%20那些年，走过的%20None%20之坑.md)
  - [python小课堂36 - 你可知对象也有真假之分？](./pythonC技巧篇/python小课堂36%20-%20你可知对象也有真假之分？.md)
  - [python小课堂37 - 你并没有真正的理解 if \_\_name\_\_ 的作用](./pythonC技巧篇/python小课堂37%20-%20你并没有真正的理解%20if%20__name__%20的作用.md)
+ - [python小课堂38 - 关于 args, kwargs 的作用](./pythonC技巧篇/python小课堂38%20-%20关于%20args,%20kwargs%20的作用.md)
+ - [python小课堂39 - 用 with 优雅的读写文件](./pythonC技巧篇/python小课堂39%20-%20用%20with%20优雅的读写文件.md)
 
 
 ### 电子书
